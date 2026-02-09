@@ -2,7 +2,9 @@
 
 ### AI-Powered Financial Intelligence Platform
 
-> A full-stack RAG (Retrieval-Augmented Generation) application that lets users ask natural language questions about SEC filings from the Magnificent 7 tech companies — and get cited, analyst-grade answers in seconds.
+## A full-stack RAG (Retrieval-Augmented Generation) application that lets users ask natural language questions about SEC filings from the Magnificent 7 tech companies
+
+— ask ANY natural language questions about any MAG7 company's SEC filings. The system retrieves relevant filing excerpts, generates an answer, and returns source citations — all in a single optimized LLM call.
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
@@ -17,7 +19,7 @@
 
 <img width="1918" height="1067" alt="image" src="https://github.com/user-attachments/assets/08054b62-e2bb-4ca2-a8d4-cc04029c2a15" />
 
-## Demo
+## Example
 
 | Single Company Q&A | Multi-Company Compare |
 |---|---|
